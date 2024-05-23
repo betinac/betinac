@@ -8,11 +8,8 @@ TODO list
 - ⚡ Fun fact: ...
 -->
 
-# Betina Perez Neder
-> Lead QA Engineer | ISTQB®-CTFL | Quality Advocate | QA Mentor
-
-## Introduction ✨
-Hello 👋, I'm Betina, a Lead QA Engineer with over 18 years of experience in the field. I love leading QA teams, improving quality engineering practices and delivering high-quality products. My expertise includes exploratory testing, user acceptance testing, accessibility testing, and test automation.
+## Hello 👋
+I'm Betina, a Lead QA Engineer with over 18 years of experience in the field. I love leading QA teams, improving quality engineering practices and delivering high-quality products. My expertise includes exploratory testing, user acceptance testing, accessibility testing, and test automation.
 
 I'm all about continuous learning and growth, staying up-to-date with the latest industry trends. I'm passionate about cross-functional leadership, collaboration, mentoring, and process improvement.
 
