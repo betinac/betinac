@@ -19,7 +19,7 @@ I'm excited to showcase my skills, experience, and accomplishments in the QA wor
 - [**Lead QA / Staff Software Engineer**][helpscout], Help Scout. Canada, *2017-2024*
 - [**Quality Assurance Specialist**][nspower], Nova Scotia Power Inc. Canada, *2015-2017*
 - [**QA Lead**][olapic], Olapic Inc. Argentina, *2014-2015*
-- [**Test Leader/Release Manager**][motorola]. Argentina, *2006-2014*
+- [**Test Leader/Release Manager**][motorola], Motorola Mobility (now Arris). Argentina, *2006-2014*
 
 [helpscout]: resume/work-experience.md#lead-qa--staff-software-engineer "Lead QA / Staff Software Engineer @Help Scout"
 [nspower]: resume/work-experience.md#quality-assurance-specialist "Quality Assurance Specialist @NS Power Inc"
